@@ -1,0 +1,17 @@
+{
+    "name": "cloukili/dbal-doctrine-test",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Chahir",
+            "email": "minitutoriel@gmail.com"
+        }
+    ],
+    "require": {
+        "doctrine/dbal": "^3.8"
+    }
+}
